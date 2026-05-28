@@ -1,0 +1,8 @@
+# Robots.txt for Rus - Cuban Landing Page
+# https://tu-usuario.github.io/web-combos/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tu-usuario.github.io/web-combos/sitemap.txt
